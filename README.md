@@ -11,4 +11,5 @@ I tested on Android 4.1.2
 
 Example
 ============
+<img src="https://github.com/Litvinenko-Anton/DragonCat/blob/master/DragonCat_PNG.png"/>
 <img src="https://github.com/Litvinenko-Anton/DragonCat/blob/master/DragonCat_GIF.gif"/>
